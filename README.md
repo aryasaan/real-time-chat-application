@@ -100,12 +100,6 @@ For deployment, ensure you have configured your environment variables correctly.
 
 ---
 
-## Video Demo
-
-[Link to video demonstration](#)
-
----
-
 ## Live Demo (Optional)
 
 [Deployed URL](#)
