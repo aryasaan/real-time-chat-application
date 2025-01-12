@@ -3,6 +3,11 @@
 This project is a **Real-Time Chat Application** built using modern web technologies to facilitate seamless communication. The application supports multiple users, real-time messaging, and delivers a clean and responsive user interface.
 
 ---
+## Live Demo 
+
+<pre>
+   <a href= "https://real-time-chat-application-kp6g.onrender.com">https://real-time-chat-application-kp6g.onrender.com</a>
+</pre>
 
 ## Features
 
@@ -10,6 +15,7 @@ This project is a **Real-Time Chat Application** built using modern web technolo
 - **Multi-User Support**: Handles multiple users simultaneously.
 - **Responsive UI**: Optimized for desktop and mobile devices.
 - **Secure**: Basic user authentication and data security.
+-  **Theme change**: 32 different theme can be used like(dark, light, cupcake)
 - **Scalable**: Designed to support a growing user base.
 
 ---
