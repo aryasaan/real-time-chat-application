@@ -16,8 +16,8 @@ This project is a **Real-Time Chat Application** built using modern web technolo
 
 ## Tech Stack
 
-- **Frontend**: React.js (or other frameworks like Angular/Vue.js)
-- **Backend**: Node.js with Express.js
+- **Frontend**: React.js,Tailwind css, Daisy UI, Lucid react, zustand, redux, router, toaster .
+- **Backend**: Node.js with Express.js and socket.io
 - **Database**: MongoDB for storing user and message data
 - **Real-Time Communication**: Socket.IO (or WebSocket)
 - **Deployment**: (e.g., Vercel, Netlify for frontend, and AWS/Heroku for backend)
@@ -56,12 +56,17 @@ Ensure you have the following installed on your system:
 3. **Set Up Environment Variables**
    Create a `.env` file in the `backend` directory with the following keys:
    ```plaintext
-   PORT=5000
-   MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret
+   MONGODB_URI = 
+   PORT = 5001
+   JWT_SECRET = GijdhXZSjNwogLRv
+   CLOUDINARY_CLOUD_NAME =
+   CLOUDINARY_API_KEY= 
+   CLOUDINARY_API_SECRET =
+
+
    ```
 
-4. **Run the Application**
+3. **Run the Application**
    Open two terminals:
    - In one terminal, start the backend server:
      ```bash
@@ -74,8 +79,8 @@ Ensure you have the following installed on your system:
      npm start
      ```
 
-5. **Access the Application**
-   Open your browser and navigate to `http://localhost:3000`.
+4. **Access the Application**
+   Open your browser and navigate to `http://localhost:5173`.
 
 ---
 
