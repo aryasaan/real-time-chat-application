@@ -96,7 +96,9 @@ Ensure you have the following installed on your system:
 
 ## Live Demo 
 
-[Deployed URL](#)
+<pre>
+   <a href= "https://real-time-chat-application-kp6g.onrender.com">https://real-time-chat-application-kp6g.onrender.com</a>
+</pre>
 
 ---
 
