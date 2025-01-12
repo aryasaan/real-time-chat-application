@@ -86,21 +86,15 @@ Ensure you have the following installed on your system:
 
 ## Usage Instructions
 
-1. **Sign Up / Log In**: Create an account or log in to an existing one.
+1. **Sign Up / Log In**: Create an account or log in to an existing one  or fake account.
 2. **Start a Chat**: Search for other users and initiate a chat.
 3. **Send Messages**: Exchange messages in real-time.
+4. ** NOTE** : Authentication is not required , just use fake account example- hululu@email.com , pass- 123456;
 
 ---
 
-## Deployment
 
-For deployment, ensure you have configured your environment variables correctly. Example:
-- Deploy the backend using **Heroku** or **AWS**.
-- Deploy the frontend using **Vercel** or **Netlify**.
-
----
-
-## Live Demo (Optional)
+## Live Demo 
 
 [Deployed URL](#)
 
