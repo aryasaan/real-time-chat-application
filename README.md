@@ -1,6 +1,6 @@
 # Real-Time Chat Application
 
-This project is a **Real-Time Chat Application** built using modern web technologies to facilitate seamless communication. The application supports multiple users, real-time messaging, and delivers a clean and responsive user interface.
+This project is a **Real-Time Chat Application** built using ** MERN STACK** to facilitate seamless communication. The application supports multiple users, real-time messaging, and delivers a clean and responsive user interface.
 
 ---
 ## Live Demo 
