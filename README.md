@@ -108,7 +108,4 @@ Ensure you have the following installed on your system:
 
 ---
 
-## Contributing
-
-Contributions are welcome!
 
