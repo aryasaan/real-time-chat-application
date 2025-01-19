@@ -110,5 +110,5 @@ Ensure you have the following installed on your system:
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit a pull request or open an issue.
+Contributions are welcome!
 
