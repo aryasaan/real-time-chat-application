@@ -26,7 +26,7 @@ This project is a **Real-Time Chat Application** built using **MERN STACK** to f
 - **Backend**: Node.js with Express.js and socket.io
 - **Database**: MongoDB for storing user and message data
 - **Real-Time Communication**: Socket.IO (or WebSocket)
-- **Deployment**: (e.g., Vercel, Netlify for frontend, and AWS/Heroku for backend)
+- **Deployment**: (e.g., Vercel, Netlify for frontend, and render for backend)
 
 ---
 
