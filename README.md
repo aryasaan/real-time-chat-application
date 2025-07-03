@@ -9,6 +9,12 @@ This project is a **Real-Time Chat Application** built using **MERN STACK** to f
    <a href= "https://real-time-chat-application-kp6g.onrender.com">https://real-time-chat-application-kp6g.onrender.com</a>
 </pre>
 
+
+<pre>
+   <a href= "https://real-time-chat-application-kp6g.onrender.com/">https://real-time-chat-application-kp6g.onrender.com/</a>
+</pre>
+
+
 ## Features
 
 - **Real-Time Messaging**: Instant updates using WebSocket or similar technologies.
